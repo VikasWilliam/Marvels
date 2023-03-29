@@ -57,3 +57,8 @@ export default Demo;
 
 //git push --exclude=file-to-exclude.txt
 
+/*git rm --cached file-to-exclude.txt
+This will remove the file from the Git index, but leave it in your local file system.
+git commit -m "Exclude file-to-exclude.txt from push"
+git push*/
+c7c949ba8f380e176ab58ebe98b0811b355718f9
