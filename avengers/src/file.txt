@@ -1,3 +1,5 @@
 check check
 lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhBdfjdlj
 git rm --cached file-to-exclude.txt path of file after git add .
+
+check
