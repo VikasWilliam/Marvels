@@ -49,3 +49,11 @@ Demo.propTypes = {
 };
 
 export default Demo;
+
+/**dfjldkjf checking */
+
+
+//git add --all :!(package-lock.json)
+
+//git push --exclude=file-to-exclude.txt
+
