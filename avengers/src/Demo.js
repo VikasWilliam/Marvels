@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, useEffect } from 'react';
 import PropTypes from 'prop-types';
 
 class Demo extends Component {
@@ -15,6 +15,10 @@ class Demo extends Component {
 
     }
     componentDidMount() {
+  useEffect(()=>{
+console.log("hello world")
+  },[])
+    }
 
     }
     componentWillReceiveProps(nextProps) {
