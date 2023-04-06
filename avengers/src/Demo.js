@@ -14,6 +14,9 @@ class Demo extends Component {
     componentDidMount() {
 
     }
+    componentDidMount() {
+
+    }
 
     componentWillReceiveProps(nextProps) {
 
